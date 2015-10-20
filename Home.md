@@ -4,4 +4,4 @@
 
 ## Mathjax
 
-$$ /dfrac{a}{b} $$
+$$ \dfrac{a}{b} $$
