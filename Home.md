@@ -11,6 +11,6 @@ Alice <-- Bob: another authentication Response
 @enduml
 
 
-\\\(2^2\\\) 
+\\\(2^2\\\)
 
 ## test
