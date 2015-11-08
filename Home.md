@@ -19,10 +19,4 @@ Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block
 
 text $$2^2$$ \\\[2^2\\\] 
 
-## test 99
-
-#+BEGIN_HTML 
-<p>나는 피리부는 사나이</p>
-#+END_HTML
-
 
