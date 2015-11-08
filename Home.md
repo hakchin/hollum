@@ -1,3 +1,11 @@
+<head>
+...
+    <script type="text/javascript"
+            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+...
+</head>
+
 # 이것은 테스트 입니다.
 
 ![oneM2M](http://img.etnews.com/ict/2013/term/image_020130329141422.jpg)
@@ -13,5 +21,4 @@ Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block
 \\[ \frac{1}{n^{2}} \\]
 =======
 ## test
-
 
