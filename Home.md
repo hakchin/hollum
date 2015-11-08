@@ -14,3 +14,9 @@ Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block
 =======
 ## test
 
+\\\(2^2\\\) 
+
+
+text $$2^2$$ \\\[2^2\\\] 
+
+
