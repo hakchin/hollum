@@ -8,3 +8,4 @@ My name is Hakchin Kim and $ \dfrac{a}{b} $
   * not inline
 $$ \dfrac{a}{b} $$
 
+  *  \\( \dfrac{a}{b} \\)
